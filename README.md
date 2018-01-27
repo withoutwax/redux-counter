@@ -18,7 +18,7 @@ bundle install
 ```
 
 ### App Hierarchy
-![alt text](https://github.com/withoutwax/redux-counter/blob/master/public/App_hierarchy.png")
+![alt text](https://github.com/withoutwax/redux-counter/blob/master/public/App_hierarchy.png "App Hierarchy")
 
 ### index.js (Connecting React with Redux)
 Added ```createStore```, ```Provider``` ```counter```(reducers).  
